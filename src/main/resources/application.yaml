@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: translate
+server:
+  port: 7003
